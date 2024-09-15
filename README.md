@@ -1,6 +1,6 @@
-# Traders Fund Chat
+# nextjs-aceternity-template
 
-[![latest](https://github.com/sai-github/traders-fund-chat/actions/workflows/main-build.yml/badge.svg)](https://github.com/sai-github/traders-fund-chat/actions/workflows/main-build.yml)
+[![latest](https://github.com/sai-github/nextjs-aceternity-template/actions/workflows/main-build.yml/badge.svg)](https://github.com/sai-github/nextjs-aceternity-template/actions/workflows/main-build.yml)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
